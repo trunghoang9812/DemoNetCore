@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Domain\bin\Debug\netcoreapp3.1\DemoDotNetCore.Domain.deps.json
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Domain\bin\Debug\netcoreapp3.1\DemoDotNetCore.Domain.dll
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Domain\bin\Debug\netcoreapp3.1\DemoDotNetCore.Domain.pdb
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Domain\obj\Debug\netcoreapp3.1\DemoDotNetCore.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Domain\obj\Debug\netcoreapp3.1\DemoDotNetCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Domain\obj\Debug\netcoreapp3.1\DemoDotNetCore.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Domain\obj\Debug\netcoreapp3.1\DemoDotNetCore.Domain.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Domain\obj\Debug\netcoreapp3.1\DemoDotNetCore.Domain.dll
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Domain\obj\Debug\netcoreapp3.1\DemoDotNetCore.Domain.pdb

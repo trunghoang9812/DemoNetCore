@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\bin\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.deps.json
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\bin\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.runtimeconfig.json
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\bin\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\bin\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.dll
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\bin\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.pdb
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\bin\Debug\netcoreapp3.1\DemoDotNetCore.Domain.dll
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\bin\Debug\netcoreapp3.1\DemoDotNetCore.Domain.pdb
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\obj\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\obj\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\obj\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\obj\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\obj\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.dll
+C:\Users\Dell\source\repos\DemoDotNetCore\DemoDotNetCore.Infrastructor\obj\Debug\netcoreapp3.1\DemoDotNetCore.Infrastructor.pdb
